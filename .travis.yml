@@ -8,7 +8,7 @@ install:
 
 # 生成网页静态资源
 script:
-  - teadocs build
+  - teadocs build -d build
 
 # 将静态资源推送到远程仓库某分支
 after_script:
