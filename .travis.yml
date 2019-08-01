@@ -1,0 +1,33 @@
+# 设置运行环境
+language: node_js
+node_js: stable
+
+# 安装依赖包
+install:
+  - npm install -g teadocs
+
+# 生成网页静态资源
+script:
+  - teadocs build
+
+# 将静态资源推送到远程仓库某分支
+after_script:
+  # 复制_config.yml
+  - cp _config.yml ./build
+  # git options
+  - cd ./build
+  - git init
+  - git config user.name "rayiooo"
+  - git config user.email "rayiooo@foxmail.com"
+  - git add .
+  - git commit -m "update pages"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+
+branches:
+  only:
+    # 设置监控分支
+    - master
+env:
+  global:
+    # 定义往哪个仓库推送代码，注意事项见下面
+    - GH_REF: github.com/ffobook/ffobook.github.io.git
