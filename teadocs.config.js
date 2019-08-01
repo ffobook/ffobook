@@ -3,8 +3,8 @@ const path = require('path')
 
 module.exports = {
     doc: {
-        name: "FFO蓝皮书",
-        description: "QQ自由幻想游戏蓝皮书手册",
+        name: "FFO 幻想圣典",
+        description: "QQ自由幻想（FFO）百科全书之幻想圣典",
         version: "0.0.1",
         dir: "./docs",
         outDir: "./build",
