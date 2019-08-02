@@ -4,11 +4,11 @@ QQ自由幻想的五大职业分别是战士、剑客、刺客、术士、药师
 
 | 职业 |                    初行者男                     |                    初行者女                     |
 | ---- | :---------------------------------------------: | :---------------------------------------------: |
-| 战士 | ![战士男](/static/images/game/career/zs_nm.jpg) | ![战士女](/static/images/game/career/zs_nw.jpg) |
-| 剑客 | ![剑客男](/static/images/game/career/jk_nm.jpg) | ![剑客女](/static/images/game/career/jk_nw.jpg) |
-| 刺客 | ![刺客男](/static/images/game/career/ck_nm.jpg) | ![刺客女](/static/images/game/career/ck_nw.jpg) |
-| 术士 | ![术士男](/static/images/game/career/ss_nm.jpg) | ![术士女](/static/images/game/career/ss_nw.jpg) |
-| 药师 | ![药师男](/static/images/game/career/ys_nm.jpg) | ![药师女](/static/images/game/career/ys_nw.jpg) |
+| 战士 | ![战士男](/static/images/game/zhiye/zs_nm.jpg) | ![战士女](/static/images/game/zhiye/zs_nw.jpg) |
+| 剑客 | ![剑客男](/static/images/game/zhiye/jk_nm.jpg) | ![剑客女](/static/images/game/zhiye/jk_nw.jpg) |
+| 刺客 | ![刺客男](/static/images/game/zhiye/ck_nm.jpg) | ![刺客女](/static/images/game/zhiye/ck_nw.jpg) |
+| 术士 | ![术士男](/static/images/game/zhiye/ss_nm.jpg) | ![术士女](/static/images/game/zhiye/ss_nw.jpg) |
+| 药师 | ![药师男](/static/images/game/zhiye/ys_nm.jpg) | ![药师女](/static/images/game/zhiye/ys_nw.jpg) |
 
 ## 参考资料
 

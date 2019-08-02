@@ -1,16 +1,17 @@
 - [前言](/index)
 - +1 游戏系统
-    - [职业](/game/career/index)
-        - [战士](/game/career/zs)
-        - [剑客](/game/career/jk)
-        - [刺客](/game/career/ck)
-        - [术士](/game/career/ss)
-        - [药师](/game/career/ys)
-    - [装备](/game/equipment/index)
-    - [宠物](/game/pet/index)
-    - 幻神
-    - 法宝
-    - 典籍
+    - [🏃‍ 职业](/game/zhiye/index)
+        - [战士](/game/zhiye/zs)
+        - [剑客](/game/zhiye/jk)
+        - [刺客](/game/zhiye/ck)
+        - [术士](/game/zhiye/ss)
+        - [药师](/game/zhiye/ys)
+    - [🔪 装备](/game/zhuangbei/index)
+    - [🐱 宠物](/game/chongwu/index)
+    - [👰 幻神](/game/huanshen/index)
+    - [🔖 法宝](/game/fabao/index)
+    - [🃏 典籍](/game/dianji/index)
+        - [卡牌一览表](/game/dianji/list)
 - +2 日常任务
 - +3 副本系统
 - +4 PVP 系统
