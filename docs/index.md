@@ -19,7 +19,7 @@
 
 ## 贡献内容
 
-如果你想向这本蓝皮书贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后将你贡献的内容提交PR。也可以提交你想补充的信息到Issue中去。
+如果你想向这份文档贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后将你贡献的内容提交PR。
 
 ## 文档生成
 
