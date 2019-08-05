@@ -1,4 +1,4 @@
-# README
+# 前言
 
 ## FFO 幻想目录
 
@@ -15,7 +15,7 @@
 ## 项目信息
 
 - Github地址：[![github](https://img.shields.io/badge/Link-Github-green)](https://github.com/ffobook/ffobook)
-- 域名访问：[![Page](https://img.shields.io/badge/Link-ffo.github.io-green)](https://ffobook.github.io)
+- 幻想目录地址：[![Page](https://img.shields.io/badge/Link-ffo.github.io-green)](https://ffobook.github.io)
 
 ## 贡献内容
 
