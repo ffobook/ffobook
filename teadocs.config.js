@@ -15,19 +15,14 @@ module.exports = {
         title: "",
         headHtml: "",
         footHtml: `
-			<!-- Ptengine -->
-			<script type="text/javascript">
-				window._pt_lt = new Date().getTime();
-				window._pt_sp_2 = [];
-				_pt_sp_2.push("setAccount,4b8d2226");
-				var _protocol =(("https:" == document.location.protocol) ? " https://" : " http://");
+			<!-- hm -->
+			<script>
+				var _hmt = _hmt || [];
 				(function() {
-					var atag = document.createElement("script");
-					atag.type = "text/javascript";
-					atag.async = true;
-					atag.src = _protocol + "js.ptengine.cn/4b8d2226.js";
-					var s = document.getElementsByTagName("script")[0];
-					s.parentNode.insertBefore(atag, s);
+				  var hm = document.createElement("script");
+				  hm.src = "https://hm.baidu.com/hm.js?c397b3c9771ef07cfe2cd5f44be3e552";
+				  var s = document.getElementsByTagName("script")[0]; 
+				  s.parentNode.insertBefore(hm, s);
 				})();
 			</script>
 		`,
