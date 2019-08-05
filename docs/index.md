@@ -1,4 +1,4 @@
-# 前言
+# 首页
 
 ## FFO 幻想目录
 
@@ -32,3 +32,13 @@
 - 署名：必须提到原作者，提供指向此许可协议的链接，表明是否有做修改
 - 非商业性使用：不能对本作品进行任何形式的商业性使用
 - 相同方式共享：若对本作品进行了修改，必须以相同的许可协议共享
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-145147913-1');
+  ga('send', 'pageview');
+</script>
