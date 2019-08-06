@@ -4,13 +4,13 @@ QQ自由幻想的五大职业分别是战士、剑客、刺客、术士、药师
 
 ## 外形
 
-| 职业 |                    初行者男                     |                    初行者女                     |
-| ---- | :---------------------------------------------: | :---------------------------------------------: |
-| 战士 | ![战士男](/static/images/game/zhiye/zs_nm.jpg) | ![战士女](/static/images/game/zhiye/zs_nw.jpg) |
-| 剑客 | ![剑客男](/static/images/game/zhiye/jk_nm.jpg) | ![剑客女](/static/images/game/zhiye/jk_nw.jpg) |
-| 刺客 | ![刺客男](/static/images/game/zhiye/ck_nm.jpg) | ![刺客女](/static/images/game/zhiye/ck_nw.jpg) |
-| 术士 | ![术士男](/static/images/game/zhiye/ss_nm.jpg) | ![术士女](/static/images/game/zhiye/ss_nw.jpg) |
-| 药师 | ![药师男](/static/images/game/zhiye/ys_nm.jpg) | ![药师女](/static/images/game/zhiye/ys_nw.jpg) |
+| 职业 |                    初行者男                    |                    初行者女                    | 职业男                                          | 职业女                                          |
+| ---- | :--------------------------------------------: | :--------------------------------------------: | ----------------------------------------------- | ----------------------------------------------- |
+| 战士 | ![战士男](/static/images/game/zhiye/zs_nm.jpg) | ![战士女](/static/images/game/zhiye/zs_nw.jpg) | ![战士男+](/static/images/game/zhiye/zs_ow.jpg) | ![战士女+](/static/images/game/zhiye/zs_ow.jpg) |
+| 剑客 | ![剑客男](/static/images/game/zhiye/jk_nm.jpg) | ![剑客女](/static/images/game/zhiye/jk_nw.jpg) | ![剑客男+](/static/images/game/zhiye/jk_om.jpg) | ![剑客女+](/static/images/game/zhiye/jk_ow.jpg) |
+| 刺客 | ![刺客男](/static/images/game/zhiye/ck_nm.jpg) | ![刺客女](/static/images/game/zhiye/ck_nw.jpg) | ![刺客男+](/static/images/game/zhiye/ck_om.jpg) | ![刺客女+](/static/images/game/zhiye/ck_ow.jpg) |
+| 术士 | ![术士男](/static/images/game/zhiye/ss_nm.jpg) | ![术士女](/static/images/game/zhiye/ss_nw.jpg) | ![术士男+](/static/images/game/zhiye/ss_om.jpg) | ![术士女+](/static/images/game/zhiye/ss_ow.jpg) |
+| 药师 | ![药师男](/static/images/game/zhiye/ys_nm.jpg) | ![药师女](/static/images/game/zhiye/ys_nw.jpg) | ![药师男+](/static/images/game/zhiye/ys_om.jpg) | ![药师女+](/static/images/game/zhiye/ys_ow.jpg) |
 
 ## 资质
 

@@ -1,16 +1,16 @@
 - [首页](/index)
 - 1 游戏系统
-    - [🏃‍ 职业](/game/zhiye/index)
+    - [🏃‍ 职业系统](/game/zhiye/index)
         - [战士](/game/zhiye/zs)
         - [剑客](/game/zhiye/jk)
         - [刺客](/game/zhiye/ck)
         - [术士](/game/zhiye/ss)
         - [药师](/game/zhiye/ys)
-    - [🔪 装备](/game/zhuangbei/index)
-    - [🐱 宠物](/game/chongwu/index)
-    - [👰 幻神](/game/huanshen/index)
-    - [🔖 法宝](/game/fabao/index)
-    - [🃏 典籍](/game/dianji/index)
+    - [🔪 装备系统](/game/zhuangbei/index)
+    - [🐱 宠物系统](/game/chongwu/index)
+    - [👰 幻神系统](/game/huanshen/index)
+    - [🔖 法宝系统](/game/fabao/index)
+    - [🃏 典籍系统](/game/dianji/index)
         - [卡牌一览表](/game/dianji/list)
 - 2 日常任务
 - 3 副本系统
