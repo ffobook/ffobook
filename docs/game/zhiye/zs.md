@@ -8,17 +8,17 @@
 
 | 图片                                                         | 名称     | 等级 | 作用 | 技能说明                                                     | 推荐 |
 | ------------------------------------------------------------ | -------- | ---- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_091.jpg) | 连环枪法 | 10   | 目标 | 低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。   |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_092.jpg) | 穿刺之枪 | 10   | 范围 | 对50*150的长方形范围内的敌人造成95%的伤害；每升一级造成伤害提升5%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_093.jpg) | 破防之枪 | 15   | 目标 | 降低敌人20%的防御15秒，每升一级多降低敌人3%的防御。          |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_091.jpg) | 连环枪法 | 10   | 目标 | 低级枪系技能，对敌人造成（130%/135%/140%/145%/150%）的伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_092.jpg) | 穿刺之枪 | 10   | 范围 | 对70*150的长方形范围内的敌人造成（95%/100%/105%/110%/115%）的伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_093.jpg) | 破防之枪 | 15   | 目标 | 造成100%伤害，15秒内降低敌人防御（30%/40%/50%/60%/70%）。如果目标是玩家，则降防（10%/14%/18%/22%/26%）。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_094.jpg) | 冲锋     | 15   | 目标 | 5秒内移动速度提升50%；每升一级造成持续时间延长1秒。          |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_095.jpg) | 破甲     | 20   | 被动 | 使敌人一段时间内受到的伤害增加。                             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_095.jpg) | 破甲     | 20   | 被动 | 破防之枪可以使对方15秒内多受（20%/23%/26%/29%/32%）的物理伤害和魔法伤害。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_096.jpg) | 飞翔之枪 | 20   | 目标 | 远程枪术，对敌人造成105%伤害，每升一级造成伤害提升5%。       |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_097.jpg) | 破法之枪 | 25   | 目标 | 100%伤害，同时敌人法力值受到攻击力60%伤害，每次升级伤害法力效果增加10%。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_097.jpg) | 破法之枪 | 25   | 目标 | 造成100%伤害，同时敌人的法力值受到攻击力（60%/75%/90%/105%/120%）的伤害。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_098.jpg) | 全力投掷 | 25   | 被动 | 5秒内降低敌人速度50%，成功率30%；每升一级多降低敌人移动速度10%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_099.jpg) | 震地之枪 | 30   | 范围 | 对120度角半径150扇形范围内的敌人造成135%伤害；每升一级伤害提升5%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_100.jpg) | 破魔     | 30   | 被动 | 破法之枪造成的法力伤害效果增加10% ，每次升级再次增加10%。    |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_101.jpg) | 裂空之枪 | 36   | 目标 | 以5%武器耐久度换取对敌人180%伤害；每升一级武器损耗提升1%，伤害提升10%。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_099.jpg) | 震地之枪 | 30   | 范围 | 对120度角，半径150扇形范围内的敌人造成（130%/135%/140%/145%/150%）伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_100.jpg) | 破魔     | 30   | 被动 | 破法之枪将使目标额外损失其法力值上限的（10%/15%/20%/25%/30%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_101.jpg) | 裂空之枪 | 36   | 目标 | 以（5%/6%/7%/8%/9%）武器耐久度换取对敌人（180%/190%/200%/210%/220%）伤害。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_102.jpg) | 震空枪气 | 36   | 被动 | 20%的几率震退敌人；每升一级几率增加5%。                      |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_103.jpg) | 流虹之枪 | 43   | 范围 | 对80*250的长方形范围内的敌人造成145%的伤害，每升一级造成伤害提升5%。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_104.jpg) | 维护     | 43   | 被动 | 降低裂空之枪使用时消耗的武器耐久度，升级使此效果增强。       |      |
@@ -35,8 +35,8 @@
 
 | 图片                                                         | 名称     | 等级 | 作用 | 技能说明                                                     | 推荐 |
 | ------------------------------------------------------------ | -------- | ---- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_113.jpg) | 枪法修炼 | 15   | 被动 | 提高枪系攻击技能的攻击力2%，每升一级攻击力加2%。             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_114.jpg) | 意志     | 20   | 被动 | 昏迷抗性+10%，每次升级抗性提升10%                            |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_113.jpg) | 枪法修炼 | 15   | 被动 | 提高枪系攻击技能的攻击力（2%/4%/6%/.../20%）。               |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_114.jpg) | 意志     | 20   | 被动 | 昏迷抗性+（10%/20%/30%/40%/50%）。                           |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_115.jpg) | 重击     | 25   | 目标 | 100%伤害，使敌人昏迷6秒，昏迷中无法回避攻击，每次升级昏迷时间延长1秒。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_116.jpg) | 强健     | 30   | 被动 | 减速抗性+10%，每次升级抗性提升10%                            |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_117.jpg) | 战吼     | 36   | 范围 | 将以自己为中心半径100的圆范围内的敌人吸引过来，每次升级吸引敌人的效果更佳。 |      |
