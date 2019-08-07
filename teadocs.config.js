@@ -13,7 +13,9 @@ module.exports = {
     theme: {
         dir: "", 
         title: "",
-        headHtml: "",
+        headHtml: `
+			<meta name="google-site-verification" content="Wsqv8q9RJgmtDsBQKXjGmFni9ffrhsaDGydjUyomVr8" />
+		`,
         footHtml: `
 			<!-- hm -->
 			<script>
