@@ -16,10 +16,11 @@
             - [六阶套装](/game/zhuangbei/taozhuang/lv6)
             - [七阶套装](/game/zhuangbei/taozhuang/lv7)
     - [🐱 宠物系统](/game/chongwu/index)
+        - [宠物图鉴](/game/chongwu/list)
     - [👰 幻神系统](/game/huanshen/index)
     - [🔖 法宝系统](/game/fabao/index)
     - [🃏 典籍系统](/game/dianji/index)
-        - [卡牌一览表](/game/dianji/list)
+        - [卡牌图鉴](/game/dianji/list)
 - 2 日常任务
 - 3 副本系统
 - 4 PVP 系统
