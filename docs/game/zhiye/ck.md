@@ -44,6 +44,11 @@
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_233.jpg) | 隐者强击  | 51   | 主动 | 提升刺客使用双刃的爆击1% 。                                  |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_235.jpg) | 陷阱:冻气 | 60   | 范围 | 对半径100的圆形范围内的敌人造成170%伤害并使其冻结，每次升级冻结的时限延长。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_236.jpg) | 炼魂      | 62   | 被动 | 提升生命最大值80，魔法最大值30。                             |      |
+|                                                              | 魔法回避  | 81   |      |                                                              |      |
+|                                                              | 斗转星移  | 81   |      |                                                              |      |
+|                                                              | 人鬼殊途  | 82   |      |                                                              |      |
+|                                                              | 邪之咒    | 82   |      |                                                              |      |
+|                                                              | 绝地反击  | 88   |      |                                                              |      |
 
 ### 套装技能
 
