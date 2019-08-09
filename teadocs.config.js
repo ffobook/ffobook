@@ -15,6 +15,7 @@ module.exports = {
         title: "",
         headHtml: `
 			<meta name="google-site-verification" content="Wsqv8q9RJgmtDsBQKXjGmFni9ffrhsaDGydjUyomVr8" />
+			<meta name="baidu-site-verification" content="wj732QNDjS" />
 		`,
         footHtml: `
 			<!-- hm -->
