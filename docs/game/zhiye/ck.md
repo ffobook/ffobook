@@ -6,50 +6,49 @@
 
 ### 主修技能
 
-| 图片                                                         | 名称     | 等级  | 作用  | 技能说明                                                     | 推荐 |
-| ------------------------------------------------------------ | -------- | ----- | ----- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_202.jpg) | 倾力一击 | 10    | 目标  | 双刃攻击，造成（130%/135%/140%/145%/150%）伤害，5%概率击晕对手（5/6/7/8/9)秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_203.jpg) | 狙击     | 10    | 目标  | 暗器攻击，射程350像素，造成（130%/135%/140%/145%/150%）伤害，5%概率使敌人无法移动5秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_205.jpg) | 双刃修炼 | 15    | 被动  | 使用双刃时的攻击力+（3%/6%/9%/.../30%）。                    |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_206.jpg) | 暗器修炼 | 15    | 被动  | 使用暗器时攻击力+（3%/6%/9%/.../30%）。                      |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_207.jpg) | 反击术   | 20    | 被动  | 成功回避敌人攻击的时候（40%/43%/46%/49%/52%）的几率反击对手。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_208.jpg) | 连续投掷 | 20    | 目标  | 射程400像素，对敌人造成（150%/155%/160%/165%/170%）的伤害。  |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_209.jpg) | 隐身术   | 25    | 目标  | 隐身（30/32/34/36/38）秒，移动速度降低（25%/20%/15%/5%/0%），伤害提升（35%/70%/105%/140%/175%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_210.jpg) | 暗器回收 | 25    | 被动  | 使暗器类武器的耐久度消耗降低，每次升级效果增强。             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_211.jpg) | 进阶隐身 | 30    | 被动  | 增加隐身状态的时限（+2/4/6/8/10秒），移动速度（+5%/10%/15%/20%/25%），伤害加成（+5%/10%/15%/20%/25%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_212.jpg) | 雷火弹   | 30    | 目标  | 射程350像素，造成（160%/165%/170%/175%/180%）伤害并震退敌人。每2点强雷属性增强1%的攻击力。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_213.jpg) | 多重投掷 | 36    | 范围  | 对120度角500半径的扇形范围内的敌人造成（145%/150%/155%/160%/165%）的伤害。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_214.jpg) | 背刺     | 36    | 目标  | 只能在隐身状态下使用，100%命中，造成（300%/320%/340%/360%/380%）的伤害。每2点剔骨属性增强1%的攻击力 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_216.jpg) | 进阶背刺 | 43    | 被动  | 背刺时20%的几率不会中止隐身状态，（5%/10%/15%/20%/25%）几率击晕对手。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_217.jpg) | 烟雾弹   | 43    | 目标  | 射程350像素，并在6秒内降低敌人的命中（30%/35%/40%/45%/50%）和物理攻击力（10%/15%/20%/25%/30%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_218.jpg) | 游龙掌   | 51    | 目标  | 造成（100%/103%/106%/.../128%）的伤害。                      |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_219.jpg) | 环形爆发 | 51    | 范围  | 射程100像素，对半径200的圆形范围内敌人造成（175%/183%/191%/.../247%）的伤害。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_220.jpg) | 暗杀术   | 60    | 目标  | 100%命中，造成（400%/405%/410%/415%/420%）伤害，5%几率发生即死判定。只能在隐身状态下使用。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_221.jpg) | 爆发冲击 | 60    | 被动  | 使环形爆发有（10%/11%/12%/13%/14%）的几率震退敌人100像素。   |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_222.jpg) | 蝉翼破   | 60    | 目标  | 射程350像素，给单体目标造成（225%/230%/235%/240%/245）伤害，并且（5%/10%/15%/20%/25%）概率使目标获得“破能”状态，攻击力与魔法攻击力下降10%，持续10秒。每2点惊蝉属性增强1%的攻击力。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_223.jpg) | 迷影步   | 64    | 目标  | 15秒内提升自身移动速度（6%/12%/18%/24%/30%）。               |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_224.jpg) | 猛毒术   | 70    | 目标  | 施法距离250像素，使其半径150圆范围内的敌人在20秒内受到的物理与魔法伤害增加（16%/18%/20%/22%/24%），同时在10秒内减速（30%/35%/40%/45%/50%）。伤害加深的时间与效果对玩家均减半，减速效果对玩家无效。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_226.jpg) | 要害打击 | 72    | 目标  | 15秒内爆击率提升（11％/12％/13％/14％/15％）。               |      |
-| <br/>                                                        | 死亡恢复 | <br/> | <br/> | 对以自己为中心半径200的圆形范围内敌人造成（175%/183%/191%/199%/207%）的伤害。 |      |
+| 图片                                                         | 名称     | 等级 | 技能说明                                                     | 推荐 |
+| ------------------------------------------------------------ | -------- | ---- | ------------------------------------------------------------ | ---- |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_202.jpg) | 倾力一击 | 10   | 双刃攻击，造成（130%/135%/140%/145%/150%）伤害，5%概率击晕对手（5/6/7/8/9)秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_203.jpg) | 狙击     | 10   | 暗器攻击，射程350像素，造成（130%/135%/140%/145%/150%）伤害，5%概率使敌人无法移动5秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_205.jpg) | 双刃修炼 | 15   | 使用双刃时的攻击力+（3%/6%/9%/.../30%）。                    |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_206.jpg) | 暗器修炼 | 15   | 使用暗器时攻击力+（3%/6%/9%/.../30%）。                      |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_207.jpg) | 反击术   | 20   | 成功回避敌人攻击的时候（40%/43%/46%/49%/52%）的几率反击对手。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_208.jpg) | 连续投掷 | 20   | 射程400像素，对敌人造成（150%/155%/160%/165%/170%）的伤害。  |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_209.jpg) | 隐身术   | 25   | 隐身（30/32/34/36/38）秒，移动速度降低（25%/20%/15%/5%/0%），伤害提升（35%/70%/105%/140%/175%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_210.jpg) | 暗器回收 | 25   | 使暗器类武器的耐久度消耗降低，每次升级效果增强。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_211.jpg) | 进阶隐身 | 30   | 增加隐身状态的时限（+2/4/6/8/10秒），移动速度（+5%/10%/15%/20%/25%），伤害加成（+5%/10%/15%/20%/25%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_212.jpg) | 雷火弹   | 30   | 射程350像素，造成（160%/165%/170%/175%/180%）伤害并震退敌人。每2点强雷属性增强1%的攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_213.jpg) | 多重投掷 | 36   | 对120度角500半径的扇形范围内的敌人造成（145%/150%/155%/160%/165%）的伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_214.jpg) | 背刺     | 36   | 只能在隐身状态下使用，100%命中，造成（300%/320%/340%/360%/380%）的伤害。每2点剔骨属性增强1%的攻击力 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_216.jpg) | 进阶背刺 | 43   | 背刺时20%的几率不会中止隐身状态，（5%/10%/15%/20%/25%）几率击晕对手。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_217.jpg) | 烟雾弹   | 43   | 射程350像素，并在6秒内降低敌人的命中（30%/35%/40%/45%/50%）和物理攻击力（10%/15%/20%/25%/30%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_218.jpg) | 游龙掌   | 51   | 造成（100%/103%/106%/.../128%）的伤害。                      |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_219.jpg) | 环形爆发 | 51   | 射程100像素，对半径200的圆形范围内敌人造成（175%/183%/191%/.../247%）的伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_220.jpg) | 暗杀术   | 60   | 100%命中，造成（400%/405%/410%/415%/420%）伤害，5%几率发生即死判定。只能在隐身状态下使用。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_221.jpg) | 爆发冲击 | 60   | 使环形爆发有（10%/11%/12%/13%/14%）的几率震退敌人100像素。   |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_222.jpg) | 蝉翼破   | 60   | 射程350像素，给单体目标造成（225%/230%/235%/240%/245）伤害，并且（5%/10%/15%/20%/25%）概率使目标获得“破能”状态，攻击力与魔法攻击力下降10%，持续10秒。每2点惊蝉属性增强1%的攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_223.jpg) | 迷影步   | 64   | 15秒内提升自身移动速度（6%/12%/18%/24%/30%）。               |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_224.jpg) | 猛毒术   | 70   | 施法距离250像素，使其半径150圆范围内的敌人在20秒内受到的物理与魔法伤害增加（16%/18%/20%/22%/24%），同时在10秒内减速（30%/35%/40%/45%/50%）。伤害加深的时间与效果对玩家均减半，减速效果对玩家无效。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_226.jpg) | 要害打击 | 72   | 15秒内爆击率提升（11％/12％/13％/14％/15％）。               |      |
 
 ### 辅助技能
 
-| 图片                                                         | 名称      | 等级 | 作用 | 技能说明                                                     | 推荐 |
-| ------------------------------------------------------------ | --------- | ---- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_227.jpg) | 淬毒术    | 15   | 目标 | 30秒内，（30%/35%/40%/45%/50%）几率进行普通攻击时让敌人中毒，目标将在60秒内损失（300/360/450/570/720）点生命。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_228.jpg) | 侦测陷阱  | 20   | 范围 | 查看以自己为中心半径200范围区域内是否有陷阱，成功率（45%/53%/61%/69%/77%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_229.jpg) | 陷阱:爆弹 | 25   | 范围 | 放置一个陷阱，对半径100的圆形范围内的敌人造成（200%/210%/220%/230%/240%）的伤害。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_230.jpg) | 陷阱:毒雾 | 30   | 范围 | 放置一个陷阱，对半径100的圆形范围内的敌人造成（130%/140%/150%/160%/170%）的伤害并使其中毒，目标将在60秒内损失（360/450/570/720/900）点生命。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_231.jpg) | 解除陷阱  | 36   | 范围 | 射程250像素，解除看到的陷阱，成功率（55%/63%/71%/79%/87%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_232.jpg) | 陷阱:封印 | 43   | 范围 | 放置一个陷阱，对半径100的圆形范围内的敌人造成（150%/160%/170%/80%/190%）的伤害，并使其（26/28/30/32/34）秒内无法使用技能。对玩家封印效果（2/3/4/5/6）秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_233.jpg) | 隐者强击  | 51   | 主动 | 提升刺客使用双刃的爆击率（1%/2%/3%/4%/5%） 。                |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_235.jpg) | 陷阱:冻气 | 60   | 范围 | 放置一个陷阱，对半径100的圆形范围内的敌人造成170%的伤害并使其被冻结（14/18/22/26/30）秒。对玩家冰冻效果（2/2/3/3/4）秒，并在4秒内无法再次被冰冻。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_236.jpg) | 炼魂      | 62   | 被动 | 提升生命最大值（80/130/180/.../530），魔法最大值（30/50/70/.../210）。闪躲率提升（1%/2%/3%/.../10%）。 |      |
-|                                                              | 魔法回避  | 81   | 范围 | 使自己与半径250圆范围内的队友火焰防御和黑暗防御增加（300/350/400/450/500），持续时间10分钟。 |      |
-| <br/>                                                        | 斗转星移  | 81   | 目标 | 使自己的闪避率增加（10%/20%/30%/.../60%），持续10秒。        |      |
-| <br/>                                                        | 人鬼殊途  | 82   | 目标 | 射程350像素，在目标身上附上死亡标记，持续12秒。如果目标在死亡标记消失前死亡的话，则周围300像素范围内的队友生命与法力值恢复至（60%/70%/80%/90%/100%）。（该技能只能对怪物使用） |      |
-| <br/>                                                        | 邪之咒    | 82   | 目标 | 使散邪咒，使目标在（6/8/10/11/12）秒内无法接受任何增益状态。 |      |
-| <br/>                                                        | 绝地反击  | 88   | 被动 | 在闪避敌方攻击后（45%/50%/55%/.../70%）概率反击对手。        |      |
+| 图片                                                         | 名称      | 等级 | 技能说明                                                     | 推荐 |
+| ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ | ---- |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_227.jpg) | 淬毒术    | 15   | 30秒内，（30%/35%/40%/45%/50%）几率进行普通攻击时让敌人中毒，目标将在60秒内损失（300/360/450/570/720）点生命。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_228.jpg) | 侦测陷阱  | 20   | 查看以自己为中心半径200范围区域内是否有陷阱，成功率（45%/53%/61%/69%/77%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_229.jpg) | 陷阱:爆弹 | 25   | 放置一个陷阱，对半径100的圆形范围内的敌人造成（200%/210%/220%/230%/240%）的伤害。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_230.jpg) | 陷阱:毒雾 | 30   | 放置一个陷阱，对半径100的圆形范围内的敌人造成（130%/140%/150%/160%/170%）的伤害并使其中毒，目标将在60秒内损失（360/450/570/720/900）点生命。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_231.jpg) | 解除陷阱  | 36   | 射程250像素，解除看到的陷阱，成功率（55%/63%/71%/79%/87%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_232.jpg) | 陷阱:封印 | 43   | 放置一个陷阱，对半径100的圆形范围内的敌人造成（150%/160%/170%/80%/190%）的伤害，并使其（26/28/30/32/34）秒内无法使用技能。对玩家封印效果（2/3/4/5/6）秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_233.jpg) | 隐者强击  | 51   | 提升刺客使用双刃的爆击率（1%/2%/3%/4%/5%） 。                |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_235.jpg) | 陷阱:冻气 | 60   | 放置一个陷阱，对半径100的圆形范围内的敌人造成170%的伤害并使其被冻结（14/18/22/26/30）秒。对玩家冰冻效果（2/2/3/3/4）秒，并在4秒内无法再次被冰冻。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_236.jpg) | 炼魂      | 62   | 提升生命最大值（80/130/180/.../530），魔法最大值（30/50/70/.../210）。闪躲率提升（1%/2%/3%/.../10%）。 |      |
+| ![img](/static/images/game/zhiye/j11.jpg)                    | 魔法回避  | 81   | 使自己与半径250圆范围内的队友火焰防御和黑暗防御增加（300/350/400/450/500），持续时间10分钟。 |      |
+| ![img](/static/images/game/zhiye/j13.jpg)                    | 斗转星移  | 81   | 使自己的闪避率增加（10%/20%/30%/.../60%），持续10秒。        |      |
+| ![img](/static/images/game/zhiye/j12.jpg)                    | 人鬼殊途  | 82   | 射程350像素，在目标身上附上死亡标记，持续12秒。如果目标在死亡标记消失前死亡的话，则周围300像素范围内的队友生命与法力值恢复至（60%/70%/80%/90%/100%）。（该技能只能对怪物使用） |      |
+| ![img](/static/images/game/zhiye/j15.jpg)                    | 邪之咒    | 82   | 使散邪咒，使目标在（6/8/10/11/12）秒内无法接受任何增益状态。 |      |
+| ![img](/static/images/game/zhiye/j14.jpg)                    | 绝地反击  | 88   | 在闪避敌方攻击后（45%/50%/55%/.../70%）概率反击对手。        |      |
 
 ### 套装技能
 
