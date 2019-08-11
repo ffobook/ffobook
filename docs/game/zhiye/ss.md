@@ -59,6 +59,3 @@
 |      |      |      |          |                                 |
 |      |      |      |          |                                 |
 
-## 参考资料
-
-[官网职业系统 - 术士](http://ffo.qq.com/new/newerData/ss.htm)

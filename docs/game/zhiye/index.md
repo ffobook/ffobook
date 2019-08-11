@@ -28,4 +28,4 @@ QQ自由幻想的五大职业分别是战士、剑客、刺客、术士、药师
 
 ## 参考资料
 
-[官网职业系统 - 初行者](http://ffo.qq.com/new/gameData/zyxt_cxz.htm)
+[官网网站](http://ffo.qq.com/new/gameData/zyxt_cxz.htm)
