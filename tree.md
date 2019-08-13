@@ -26,7 +26,7 @@
         - [卡牌图鉴](/game/dianji/list)
 - 2 日常任务
     - 天魔劫
-    - [怪物猎杀令](/daily/gwlsl/index)
+    - [怪物猎杀令](/daily/gwlsl)
 - [3 副本系统](/fuben/index)
     - 60级以下的副本
         - 赤枭的巢穴
