@@ -16,7 +16,7 @@
             - [六阶套装](/game/zhuangbei/taozhuang/lv6)
             - [七阶套装](/game/zhuangbei/taozhuang/lv7)
     - [🐱 宠物系统](/game/chongwu/index)
-        - [宠物图鉴](/game/chongwu/list/index)
+        - 宠物图鉴
             - [系统类宠物](/game/chongwu/list/v1)
             - [活动类宠物](/game/chongwu/list/v2)
             - [充值类宠物](/game/chongwu/list/v3)
