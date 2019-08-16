@@ -12,8 +12,9 @@ script:
 
 # 将静态资源推送到远程仓库某分支
 after_script:
-  # 复制_config.yml
+  # 复制_config.yml、CNAME
   - cp _config.yml ./build
+  - cp CNAME ./build
   # git options
   - cd ./build
   - git init
