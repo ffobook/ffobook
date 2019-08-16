@@ -36,4 +36,4 @@
 
 ## 参考资料
 
-[官方网站](http : //ffo.qq.com/new/gameData/tswf_gwls.htm)
+[官方网站](http://ffo.qq.com/new/gameData/tswf_gwls.htm)
