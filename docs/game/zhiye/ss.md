@@ -6,56 +6,57 @@
 
 ### 主修技能
 
-| 图片                                                         | 名称     | 等级 | 技能说明                                                     | 推荐 |
-| ------------------------------------------------------------ | -------- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_128.jpg) | 火弹术   | 10   | 对敌人造成208%伤害，每次升级伤害提升8%，吟唱时间1秒，冷却时间1秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_129.jpg) | 冰箭术   | 10   | 对敌人造成100%伤害，每次升级伤害提升5%，瞬发技能，冷却时间1秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_130.jpg) | 火系掌握 | 15   | 对火弹术和火球术的威力加成，每级别4%。                       |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_131.jpg) | 冰系掌握 | 15   | 冰箭术、冰爆术、暴雪术、,绝对零度30%的几率造成对方移动速度下降20%，每次升级效果增强。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_132.jpg) | 火球术   | 20   | 对半径100的圆形范围内的敌人造成195%的伤害，每次升级伤害提升5%，吟唱时间1秒，冷却时间1.5秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_133.jpg) | 冰爆术   | 20   | 对以自己为中心半径100的圆形范围内的敌人造成175%的伤害，有25%几率使敌人冻结15秒，每次升级伤害提升5%。瞬发技能，冷却时间2.5秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_134.jpg) | 燃烧     | 25   | 使敌人20秒内持续的损失生命，每次升级作用时间加长5秒。        |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_135.jpg) | 冰封     | 25   | 使敌人冻结20秒，每次升级冻结时间延长5秒。                    |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_136.jpg) | 燃烧强化 | 30   | 使燃烧中的对手魔法防御力降低。                               |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_137.jpg) | 火盾术   | 36   | 为自己附加火焰之盾，增加伤害抗性，敌人攻击会受到伤害。       |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_138.jpg) | 冰封强化 | 36   | 使冰封的对手受到的物理伤害增加。                             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_139.jpg) | 冰盾术   | 36   | 为自己附加冰结之盾，增加伤害抗性，敌人攻击会受到冻结。       |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_140.jpg) | 风焰术   | 43   | 对半径150的圆形范围内的敌人造成250%的伤害，每次升级伤害提升6%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_141.jpg) | 暴雪术   | 43   | 对半径150的圆形范围内的敌人造成200%的伤害，每次升级伤害提升8%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_142.jpg) | 高热风暴 | 51   | 使风焰术击中的敌人30%几率受到10级燃烧的效果影响，每次升级效果增加，此技能尚无法作用。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_143.jpg) | 淬冰风暴 | 51   | 被暴雪术集中的敌人有20%的几率受到1级冰封的效果，每次升级效果增加。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_144.jpg) | 红莲之魂 | 60   | 火弹术、火球术、风焰术、陨石术的攻击力增加4%，每次升级攻击力提升4%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_145.jpg) | 寒冰之魂 | 60   | 冰箭术、冰爆术、暴雪术、绝对零度的攻击力增加4%，每次升级攻击力提升4%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_146.jpg) | 智慧术   | 68   | 为自己或队友增加提升魔法攻击力10的状态，持续30分钟，每升一级增强10点。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_147.jpg) | 怒焰击   | 70   | 聚集全身魔法能量，给单体目标造成270%的火焰魔法伤害，本技能爆击率提升20%，同时爆击伤害提升50%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_148.jpg) | 寒天冰暴 | 72   | 对半径200的圆形范围内的敌人造成265%的冰冻伤害，每升一级提高10%。 |      |
-| ![img](/static/images/game/zhiye/j21.jpg)                    | 魔法双修 | 81   | 使术士在使用冰盾术时额外增加200点冰冻防御，使用火盾术时增加200点火焰防御。 |      |
-| ![img](/static/images/game/zhiye/j22.jpg)                    | 魔法控制 | 82   | 将敌对目标变成小兔子，无法攻击及使用技能但也不会收到伤害，持续2秒。 |      |
-| ![img](/static/images/game/zhiye/j23.jpg)                    | 寒冰咒   | 83   | 对目标造成240%冰冻伤害，如果目标处于冰冻状态，则魔法爆击率增加25%，造成额外伤害400点。 |      |
+| 图片                                                         | 名称     | 等级 | 满级 | 技能说明                                                     | 推荐 |
+| ------------------------------------------------------------ | -------- | ---- | ---- | ------------------------------------------------------------ | ---- |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_128.jpg) | 火弹术   | 10   | 5    | 施法距离450像素，对目标造成（208%~240%）的火焰伤害。         |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_129.jpg) | 冰箭术   | 10   | 5    | 施法距离450像素，对敌人造成（100%~120%）的冰冻伤害。         |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_130.jpg) | 火系掌握 | 15   | 5    | 火弹术，火球术，怒焰击的攻击力增加（4%~20%）。               |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_131.jpg) | 冰系掌握 | 15   | 5    | 冰箭术，冰爆术，暴雪术30%的几率造成对方60秒内移动速度下降（20%~60%）。如果目标是玩家，则为5秒内减速（10%~30%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_132.jpg) | 火球术   | 20   | 5    | 施法距离450像素，对半径100的圆形范围内的敌人造成（195%~215%）的火焰伤害。每2点火炙属性增强1%的魔法攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_133.jpg) | 冰爆术   | 20   | 5    | 施法距离100像素，对半径100的圆形范围内的敌人造成（175%~195%）的冰冻伤害，有25%的几率使敌人冻结15秒。对玩家效果为15%的概率冰冻（2~6）秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_134.jpg) | 燃烧     | 25   | 10   | 施法距离450像素，使敌人（20~65）秒内持续的损失（200~1950）点生命。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_135.jpg) | 冰封     | 25   | 5    | 施法距离450像素，使敌人冻结（20~40）秒。如果目标是玩家，则为（2~6）秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_136.jpg) | 燃烧强化 | 30   | 5    | 使中了燃烧技能的对手魔法防御力降低（30%~50%）。              |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_137.jpg) | 火盾术   | 36   | 5    | 为自己附加持续60秒的火焰之盾，减少所受到的物理伤害（30%~50%），敌人攻击会受到反射伤害（5%~25%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_138.jpg) | 冰封强化 | 36   | 5    | 使冰封中的对手防御力下降（20%~32%）。如果是玩家，降低（10%~26%）。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_139.jpg) | 冰盾术   | 36   | 5    | 为自己附加持续（60~100）秒的冰洁之盾，减少所受到的物理伤害（30%~50%），近身攻击敌人会有（30%~50%）的几率被冻结10秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_140.jpg) | 风焰术   | 43   | 5    | 施法距离450像素，对半径150的圆形范围内的敌人造成（250%~274%）的火焰伤害。每2点冰风烈属性增强1%的魔法攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_141.jpg) | 暴雪术   | 43   | 5    | 施法距离450像素，对半径150的圆形范围内的敌人造成（200%~232%）的冰冻伤害。每2点冰寒属性增强1%的魔法攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_142.jpg) | 高热风暴 | 51   | 10   | 使被风焰术击中的敌人（30%~75%）几率受到1级燃烧的效果影响。   |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_143.jpg) | 淬冰风暴 | 51   | 10   | 被暴雪术击中的敌人有20%的几率被冻结（12~30）秒。如果目标是玩家，时间为（2~6）秒。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_144.jpg) | 红莲之魂 | 60   | 5    | 火弹术，火球术，风焰术，怒焰击的攻击力增加（4%~8%）。        |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_145.jpg) | 寒冰之魂 | 60   | 5    | 冰箭术，冰爆术，暴雪术，寒天冰暴的攻击力增加（4%~8%）。      |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_146.jpg) | 智慧术   | 68   | 5    | 施法距离450像素，为自己或队友增加提升魔法攻击力（10~50）的状态，持续30分钟。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_147.jpg) | 怒焰击   | 70   | 5    | 对敌人造成（220%~260%）火焰伤害。本技能爆击率提升20%。       |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_148.jpg) | 寒天冰暴 | 72   | 5    | 施法距离500像素，对半径200的圆形范围内的敌人造成（265%~305%）的冰冻伤害。 |      |
+| ![img](/static/images/game/zhiye/j21.jpg)                    | 魔法双修 | 81   | 5    | 使术士在使用冰盾术时额外增加（200~400）点冰冻防御，使用火盾术时增加（200~400）点火焰防御。 |      |
+| ![img](/static/images/game/zhiye/j22.jpg)                    | 魔法控制 | 82   | 5    | 将敌对目标变成小兔子，无法攻击及使用技能但也不会受到伤害，持续（2~6）秒。 |      |
+| ![img](/static/images/game/zhiye/j23.jpg)                    | 寒冰咒   | 83   | 5    | 施法距离500像素，对目标造成（240%~280%）冰冻伤害，如果目标处于冰冻状态，则魔法爆击率增加（25%~45%），造成额外伤害（400~800）点。 |      |
 
 ### 辅助技能
 
-| 图片                                                         | 名称      | 等级 | 技能说明                                                     | 推荐 |
-| ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_149.jpg) | 魔法精研  | 15   | 技能吟唱被打断的几率下降20%，每次升级效果增加20%。           |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_150.jpg) | 秘术:集中 | 20   | 使下一个技能的时限延长50%，每次升级效果增加10%。             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_151.jpg) | 魔法修炼  | 25   | 技能吟唱时间降低20%，每次升级效果增加5%。                    |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_152.jpg) | 秘术:消除 | 36   | 消除敌人的防御魔法，每次升级消除的效果增强。                 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_153.jpg) | 秘术:释能 | 43   | 使下一个使用的法术的威力增加40%，每次升级效果增强15%，冷却时间60秒。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_154.jpg) | 魔镜术    | 51   | 为自己附加一个护盾，25%几率反射对方的魔法伤害，每次升级反射成功率增加。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_155.jpg) | 秘术:瞬发 | 60   | 60%的几率使下一个使用的法术的吟唱时间缩短100%，每次升级成功率增加。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_156.jpg) | 体魂修练  | 62   | 提升生命最大值30，魔法最大值80。                             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_157.jpg) | 魔法强化  | 64   | 提升魔法伤害2%，每升一级提高2%。                             |      |
-| ![img](/static/images/game/zhiye/j24.jpg)                    | 绝对零度  | 85   | 自身化身为冰球，魔法攻击力下降100%，物理伤害吸收增加80%，每秒恢复600点血量，持续6秒。 |      |
-| ![img](/static/images/game/zhiye/j25.jpg)                    | 秘术：怒  | 88   | 术士在爆击之后80%概率获得魔法攻击力增加1%的状态，该状态最多可堆叠3层。 |      |
+| 图片                                                         | 名称       | 等级 | 满级 | 技能说明                                                     | 推荐 |
+| ------------------------------------------------------------ | ---------- | ---- | ---- | ------------------------------------------------------------ | ---- |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_149.jpg) | 魔法精研   | 15   | 5    | 技能吟唱被打断的几率下降（20%~100%），技能被打断几率的最小值为5%。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_150.jpg) | 秘术:集中  | 20   | 5    | 使20秒内的下一个技能的时限延长（50%~90%）。                  |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_151.jpg) | 魔法修炼   | 25   | 5    | 技能吟唱时间降低（20%~100%）。                               |      |
+|                                                              | 秘术：幻影 |      | 5    | （60%~100%）几率瞬间移动至450范围内的指定点，并移除自身限制移动的不良状态。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_152.jpg) | 秘术:消除  | 36   | 5    | 施法距离450像素，消除敌人的防御魔法，包括光盾术，火盾术，冰盾术，魔镜术，针刺护体，每次升级，消除的效果增加。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_153.jpg) | 秘术:释能  | 43   | 5    | 使20秒内下一个使用的法术的威力增加（40%~100%）。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_154.jpg) | 魔镜术     | 51   | 5    | 为自己附加一个持续30秒，（30%~50%）几率抵抗对方魔法造成的伤害的护盾。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_155.jpg) | 秘术:瞬发  | 60   | 5    | 使下一个技能的吟唱时间缩短（60%~76%）。                      |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_156.jpg) | 体魂修练   | 62   | 10   | 提升生命最大值（30~210），魔法最大值（80~620）。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_157.jpg) | 魔法强化   | 64   | 5    | 提升魔法伤害（2%~10%）。                                     |      |
+| ![img](/static/images/game/zhiye/j24.jpg)                    | 绝对零度   | 85   | 5    | 自身化身为冰球，魔法攻击力下降100%，物理伤害吸收增加80%，每秒恢复600点血量，持续（6~10）秒。 |      |
+| ![img](/static/images/game/zhiye/j25.jpg)                    | 秘术：怒   | 88   | 5    | 术士在爆击之后80%概率获得魔法攻击力增加1%的状态，该状态持续8秒，最多可堆叠（3~10）层。 |      |
 
 ### 套装技能
 
-| 图片 | 名称 | 等级 | 技能说明 | 套装                            |
-| ---- | ---- | ---- | -------- | ------------------------------- |
-|      |      |      |          | 仙器套装（6件）/秋之秘装（5件） |
-|      |      |      |          | 龙·堕天地（4件）                |
-|      |      |      |          | 虎套（4件）                     |
-|      |      |      |          |                                 |
-|      |      |      |          |                                 |
+| 图片  | 名称      | 等级  | 技能说明                                                     | 套装                            |
+| ----- | --------- | ----- | ------------------------------------------------------------ | ------------------------------- |
+| <br/> | 冰火弹·壹 | <br/> | 攻击命中时有5％的几率施放冰火弹，对300范围内的三个目标造成（250%~430%）火焰伤害。人物每10点防御增加该技能伤害2点。每1点邪影属性增强1%的魔法攻击力。 | 仙器套装（6件）/秋之秘装（5件） |
+| <br/> | 冰火弹·贰 | <br/> | 攻击命中时有12％的几率施放冰火弹，对300范围内的三个目标造成（250%~430%）火焰伤害。人物每10点防御增加该技能伤害2点。每1点邪影属性增强1%的魔法攻击力。 | 龙·堕天地（4件）                |
+| <br/> | 冰火弹·叁 | <br/> | 攻击命中时有18％的几率施放冰火弹，对300范围内的三个目标造成（270%~450%）火焰伤害。人物每10点防御增加该技能伤害2点。每1点邪影属性增强1%的魔法攻击力。 | 虎套（4件）                     |
+| <br/> | 冰火弹·肆 | <br/> | 攻击命中时有25％的几率施放冰火弹，对300范围内的三个目标造成（280%~460%）火焰伤害。人物每10点防御增加该技能伤害2点。每1点邪影属性增强1%的魔法攻击力。 |                                 |
+| <br/> | 冰火弹·伍 | <br/> | 攻击命中时有30％的几率施放冰火弹，对300范围内的三个目标造成（290%~470%）火焰伤害。人物每10点防御增加该技能伤害2点。每1点邪影属性增强1%的魔法攻击力。 |                                 |
 
