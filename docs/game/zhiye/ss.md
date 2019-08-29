@@ -35,20 +35,20 @@
 
 ### 辅助技能
 
-| 图片                                                         | 名称       | 等级 | 满级 | 技能说明                                                     | 推荐 |
-| ------------------------------------------------------------ | ---------- | ---- | ---- | ------------------------------------------------------------ | ---- |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_149.jpg) | 魔法精研   | 15   | 5    | 技能吟唱被打断的几率下降（20%~100%），技能被打断几率的最小值为5%。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_150.jpg) | 秘术:集中  | 20   | 5    | 使20秒内的下一个技能的时限延长（50%~90%）。                  |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_151.jpg) | 魔法修炼   | 25   | 5    | 技能吟唱时间降低（20%~100%）。                               |      |
-|                                                              | 秘术：幻影 |      | 5    | （60%~100%）几率瞬间移动至450范围内的指定点，并移除自身限制移动的不良状态。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_152.jpg) | 秘术:消除  | 36   | 5    | 施法距离450像素，消除敌人的防御魔法，包括光盾术，火盾术，冰盾术，魔镜术，针刺护体，每次升级，消除的效果增加。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_153.jpg) | 秘术:释能  | 43   | 5    | 使20秒内下一个使用的法术的威力增加（40%~100%）。             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_154.jpg) | 魔镜术     | 51   | 5    | 为自己附加一个持续30秒，（30%~50%）几率抵抗对方魔法造成的伤害的护盾。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_155.jpg) | 秘术:瞬发  | 60   | 5    | 使下一个技能的吟唱时间缩短（60%~76%）。                      |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_156.jpg) | 体魂修练   | 62   | 10   | 提升生命最大值（30~210），魔法最大值（80~620）。             |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_157.jpg) | 魔法强化   | 64   | 5    | 提升魔法伤害（2%~10%）。                                     |      |
-| ![img](/static/images/game/zhiye/j24.jpg)                    | 绝对零度   | 85   | 5    | 自身化身为冰球，魔法攻击力下降100%，物理伤害吸收增加80%，每秒恢复600点血量，持续（6~10）秒。 |      |
-| ![img](/static/images/game/zhiye/j25.jpg)                    | 秘术：怒   | 88   | 5    | 术士在爆击之后80%概率获得魔法攻击力增加1%的状态，该状态持续8秒，最多可堆叠（3~10）层。 |      |
+| 图片                                                         | 名称       | 等级  | 满级 | 技能说明                                                     | 推荐 |
+| ------------------------------------------------------------ | ---------- | ----- | ---- | ------------------------------------------------------------ | ---- |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_149.jpg) | 魔法精研   | 15    | 5    | 技能吟唱被打断的几率下降（20%~100%），技能被打断几率的最小值为5%。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_150.jpg) | 秘术:集中  | 20    | 5    | 使20秒内的下一个技能的时限延长（50%~90%）。                  |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_151.jpg) | 魔法修炼   | 25    | 5    | 技能吟唱时间降低（20%~100%）。                               |      |
+| <br/>                                                        | 秘术：幻影 | <br/> | 5    | （60%~100%）几率瞬间移动至450范围内的指定点，并移除自身限制移动的不良状态。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_152.jpg) | 秘术:消除  | 36    | 5    | 施法距离450像素，消除敌人的防御魔法，包括光盾术，火盾术，冰盾术，魔镜术，针刺护体，每次升级，消除的效果增加。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_153.jpg) | 秘术:释能  | 43    | 5    | 使20秒内下一个使用的法术的威力增加（40%~100%）。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_154.jpg) | 魔镜术     | 51    | 5    | 为自己附加一个持续30秒，（30%~50%）几率抵抗对方魔法造成的伤害的护盾。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_155.jpg) | 秘术:瞬发  | 60    | 5    | 使下一个技能的吟唱时间缩短（60%~76%）。                      |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_156.jpg) | 体魂修练   | 62    | 10   | 提升生命最大值（30~210），魔法最大值（80~620）。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_157.jpg) | 魔法强化   | 64    | 5    | 提升魔法伤害（2%~10%）。                                     |      |
+| ![img](/static/images/game/zhiye/j24.jpg)                    | 绝对零度   | 85    | 5    | 自身化身为冰球，魔法攻击力下降100%，物理伤害吸收增加80%，每秒恢复600点血量，持续（6~10）秒。 |      |
+| ![img](/static/images/game/zhiye/j25.jpg)                    | 秘术：怒   | 88    | 5    | 术士在爆击之后80%概率获得魔法攻击力增加1%的状态，该状态持续8秒，最多可堆叠（3~10）层。 |      |
 
 ### 套装技能
 

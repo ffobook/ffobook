@@ -29,7 +29,7 @@
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_109.jpg) | 精准之印 | 64   | 5    | 提升自己和周围300像素内友方玩家的物理命中（60~300），持续30分钟。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_110.jpg) | 命令之印 | 68   | 5    | 提升自己和半径300像素圆形范围内队友的生命上限（6%~10%）持续10分钟。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_111.jpg) | 勇者之吼 | 70   | 5    | 增加自己和半径为500像素圆形范围内队友的物理和魔法爆击等级（20~60）持续10分钟。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_112.jpg) | 怒杀斩   | 72   |      | 造成200%伤害，如果目标处于石化状态则额外造成（500~900）点伤害且本技能爆击率提升（25%~45%）。（10%~26%）概率无视伤害吸收效果。每2点怒意属性增强1%的攻击力。 |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_112.jpg) | 怒杀斩   | 72   | 5    | 造成200%伤害，如果目标处于石化状态则额外造成（500~900）点伤害且本技能爆击率提升（25%~45%）。（10%~26%）概率无视伤害吸收效果。每2点怒意属性增强1%的攻击力。 |      |
 | ![img](/static/images/game/zhiye/j1.jpg)                     | 龙牙之枪 | 81   | 5    | 高级枪系攻击技能，对敌人造成（180%~200%）伤害。              |      |
 | ![img](/static/images/game/zhiye/j2.jpg)                     | 孤注一掷 | 82   | 5    | 在接下来8秒内，放弃所有防御，攻击增加伤害（1000~1400）点，并增加暴击等级+（100~140）。 |      |
 | ![img](/static/images/game/zhiye/j3.jpg)                     | 死翔之枪 | 82   | 10   | 范围攻击技能，对半径250的圆范围内的敌人造成（195%~240%）的伤害。每2点死斗属性增强1%的攻击力。 |      |

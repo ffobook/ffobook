@@ -15,7 +15,7 @@
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_207.jpg) | 反击术   | 20   | 5    | 成功回避敌人攻击的时候（40%~52%）的几率反击对手。            |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_208.jpg) | 连续投掷 | 20   | 5    | 射程400像素，对敌人造成（150%~170%）的伤害。                 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_209.jpg) | 隐身术   | 25   | 5    | 隐身（30~38）秒，移动速度降低（25%~0%），伤害提升（35%~175%）。 |      |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_210.jpg) | 暗器回收 | 25   |      | 使暗器类武器的耐久度消耗降低，每次升级效果增强。             |      |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_210.jpg) | 暗器回收 | 25   | 5    | 使暗器类武器的耐久度消耗降低，每次升级效果增强。             |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_211.jpg) | 进阶隐身 | 30   | 5    | 增加隐身状态的时限+（2~10）秒，移动速度+（5%~25%），伤害加成+（5%~25%）。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_212.jpg) | 雷火弹   | 30   | 5    | 射程350像素，造成（160%~180%）伤害并震退敌人。每2点强雷属性增强1%的攻击力。 |      |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_213.jpg) | 多重投掷 | 36   | 5    | 对120度角500半径的扇形范围内的敌人造成（145%~165%）的伤害。  |      |
