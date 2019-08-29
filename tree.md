@@ -15,7 +15,7 @@
             - [五阶套装](/game/zhuangbei/taozhuang/lv5)
             - [六阶套装](/game/zhuangbei/taozhuang/lv6)
             - [七阶套装](/game/zhuangbei/taozhuang/lv7)
-    - [🐱 宠物系统](/game/chongwu/index)
+    - 🐱 宠物系统
         - 宠物图鉴
             - [系统类宠物](/game/chongwu/list/v1)
             - [活动类宠物](/game/chongwu/list/v2)
@@ -26,7 +26,6 @@
     - [👰 幻神系统](/game/huanshen/index)
     - [🔖 法宝系统](/game/fabao/index)
     - [🃏 典籍系统](/game/dianji/index)
-        - [卡牌图鉴](/game/dianji/list)
 - 2 日常任务
     - 天魔劫
     - [怪物猎杀令](/daily/gwlsl)
