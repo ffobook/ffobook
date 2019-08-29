@@ -28,7 +28,7 @@
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_182.jpg) | 山字诀   | 60   | 5    | 3分钟内，攻击力下降10%，防御力上升（10%~18%）。              | 选修。                                     |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_183.jpg) | 风刃剑   | 64   | 5    | 对以自己为中心半径150的圆范围内的敌人造成（170%~210%）的伤害。 | 必修，+5。                                 |
 | ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_184.jpg) | 仙风云体 | 70   | 5    | （10~14）秒内不受任何伤害和负面效果影响，但攻击力降低（100%~60%）。 | 据说推荐。                                 |
-| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_185.jpg) | 追月剑   | 72   | 5    | 挥舞长剑，给单体目标造成（210%~250%）伤害，命中提升10%，如果目标处于昏迷状态，则提升（25%~45%）爆击率，且额外造成（400~800）伤害。每2点揽月属性增强1%的攻击力。 | 不推荐。                                   |
+| ![img](http://ossweb-img.qq.com/images/ffo/a20090501index/newerData/newer_185.jpg) | 追月剑   | 72   | 5    | 挥舞长剑，给单体目标造成（210%~250%）伤害，命中提升10%，如果目标处于昏迷状态，则提升（25%~45%）爆击率，且额外造成（400~800）伤害。每2点揽月属性增强1%的攻击力。 | 推荐，伤害高CD长。                         |
 | ![img](/static/images/game/zhiye/j8.jpg)                     | 剑破洪荒 | 82   | 5    | 接下来的15秒内，提升剑客攻击力（250~450）点以及10%物理与魔法防御吸收，自身血量低于30%才能使用。 |                                            |
 | ![img](/static/images/game/zhiye/j7.jpg)                     | 剑之缠绕 | 88   | 5    | 10秒内增加自身移动速度（30%~50%），并有（60%~100%）的概率将300像素范围内单个目标拉到自己身边。 | 必修。                                     |
 
