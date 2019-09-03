@@ -19,7 +19,7 @@
 
 ## 贡献内容
 
-如果你想向这份文档贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后将你贡献的内容提交PR。
+如果你想向这份文档贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后参考 [贡献者指南](https://github.com/ffobook/ffobook/blob/master/CONTRIBUTING.md)，将你贡献的内容提交PR。
 
 ## 文档生成
 
@@ -37,10 +37,9 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/rayiooo"><img src="https://avatars1.githubusercontent.com/u/38482240?v=4" width="100px;" alt="Myosaki"/><br /><sub><b>Myosaki</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Documentation">📖</a> <a href="#design-rayiooo" title="Design">🎨</a> <a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Code">💻</a></td>
