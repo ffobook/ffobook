@@ -24,6 +24,12 @@
         - [宠物装备](/game/chongwu/equip)
         - [宠物道具](/game/chongwu/prop)
     - [👰 幻神系统](/game/huanshen/index)
+        - [幻神获得](/game/huanshen/howToGet)
+        - [幻神成长](/game/huanshen/growth)
+        - [幻神任务](/game/huanshen/task)
+        - [幻神副本](/game/huanshen/instance)
+        - [幻神技能](/game/huanshen/skill_wusheng)
+            - [法仙技能](/game/huanshen/skill_faxian)
     - [🔖 法宝系统](/game/fabao/index)
     - [🃏 典籍系统](/game/dianji/index)
 - 2 日常任务
