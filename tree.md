@@ -28,7 +28,8 @@
         - [幻神成长](/game/huanshen/growth)
         - [幻神任务](/game/huanshen/task)
         - [幻神副本](/game/huanshen/instance)
-        - [幻神技能](/game/huanshen/skill_wusheng)
+        - 幻神技能
+            - [武圣技能](/game/huanshen/skill_wusheng)
             - [法仙技能](/game/huanshen/skill_faxian)
     - [🔖 法宝系统](/game/fabao/index)
     - [🃏 典籍系统](/game/dianji/index)
