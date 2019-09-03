@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "zihammmm",
+      "name": "zihammmm",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/38834655?v=4",
+      "profile": "https://github.com/zihammmm",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ffobook",
+  "projectOwner": "ffobook",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
