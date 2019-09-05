@@ -42,7 +42,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rayiooo"><img src="https://avatars1.githubusercontent.com/u/38482240?v=4" width="100px;" alt="Myosaki"/><br /><sub><b>Myosaki</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Documentation">📖</a> <a href="#design-rayiooo" title="Design">🎨</a> <a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rayiooo"><img src="https://avatars1.githubusercontent.com/u/38482240?v=4" width="100px;" alt="Myosaki"/><br /><sub><b>Myosaki</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/zihammmm"><img src="https://avatars3.githubusercontent.com/u/38834655?v=4" width="100px;" alt="zihammmm"/><br /><sub><b>zihammmm</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=zihammmm" title="Documentation">📖</a></td>
   </tr>
 </table>
