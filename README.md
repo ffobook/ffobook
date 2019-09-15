@@ -1,5 +1,4 @@
 # README
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ## FFO 幻想目录
 
@@ -20,7 +19,7 @@
 
 ## 贡献内容
 
-如果你想向这份文档贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后将你贡献的内容提交PR。
+如果你想向这份文档贡献内容，可以前往 [Teadocs](https://github.com/teadocs/teadocs) 文档生成工具的项目地址查看使用帮助，然后参考 [贡献者指南](https://github.com/ffobook/ffobook/blob/master/CONTRIBUTING.md)，将你贡献的内容提交PR。
 
 ## 文档生成
 
@@ -33,18 +32,19 @@
 - 署名：必须提到原作者，提供指向此许可协议的链接，表明是否有做修改
 - 非商业性使用：不能对本作品进行任何形式的商业性使用
 - 相同方式共享：若对本作品进行了修改，必须以相同的许可协议共享
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## 贡献者 ✨
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
+
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/rayiooo"><img src="https://avatars1.githubusercontent.com/u/38482240?v=4" width="100px;" alt="Myosaki"/><br /><sub><b>Myosaki</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=rayiooo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/zihammmm"><img src="https://avatars3.githubusercontent.com/u/38834655?v=4" width="100px;" alt="zihammmm"/><br /><sub><b>zihammmm</b></sub></a><br /><a href="https://github.com/ffobook/ffobook/commits?author=zihammmm" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
