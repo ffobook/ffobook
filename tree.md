@@ -33,6 +33,8 @@
             - [法仙技能](/game/huanshen/skill_faxian)
     - [🔖 法宝系统](/game/fabao/index)
     - [🃏 典籍系统](/game/dianji/index)
+    - [👗 变装系统](/game/suit/index)
+        - [2016-2017](/game/suit/2016-2017/suit)
 - 2 日常任务
     - 天魔劫
     - [怪物猎杀令](/daily/gwlsl)
