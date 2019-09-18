@@ -14,6 +14,7 @@ module.exports = {
         dir: "", 
         title: "",
         headHtml: `
+			<link rel="shortcut icon" href="/static/images/favicon.ico"/>
 			<meta name="google-site-verification" content="Wsqv8q9RJgmtDsBQKXjGmFni9ffrhsaDGydjUyomVr8" />
 			<meta name="baidu-site-verification" content="wj732QNDjS" />
 		`,
@@ -26,6 +27,20 @@ module.exports = {
 				  hm.src = "https://hm.baidu.com/hm.js?c397b3c9771ef07cfe2cd5f44be3e552";
 				  var s = document.getElementsByTagName("script")[0]; 
 				  s.parentNode.insertBefore(hm, s);
+				})();
+			</script>
+			<script>
+				(function(){
+					var bp = document.createElement('script');
+					var curProtocol = window.location.protocol.split(':')[0];
+					if (curProtocol === 'https') {
+						bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+					}
+					else {
+						bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+					}
+					var s = document.getElementsByTagName("script")[0];
+					s.parentNode.insertBefore(bp, s);
 				})();
 			</script>
 		`,
