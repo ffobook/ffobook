@@ -58,7 +58,10 @@
 - 5 技巧篇
     - [更便宜的仓库](/trick/cheap_storage)
 - [6 防骗手册✨](/antifraud/index)
-    - [防骗100问](/antifraud/100qa)
+    - [漫画1：账号密码发来](/antifraud/1)
+    - [漫画2：加你6张疾速+1](/antifraud/2)
+    - [漫画3：之前买过我金币](/antifraud/3)
+    - [漫画4：策划申请加为好友](/antifraud/4)
 - 附录
     - 物品表
         - [武器](/extra/items/wuqi)
