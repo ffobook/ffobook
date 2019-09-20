@@ -10,6 +10,10 @@
 > 4. 右键点击此文件并选择 Edit Script。
 > 5. 在新的空行中，输入下列内容：`q::!1`。
 
+$$
+q::!1
+$$
+
 在上面的语句行中，`!`键表示`Alt`键，双冒号`::`表示每次按下此热键时会执行其后续命令，所以这句语句表示按下`q`键来激活`Alt + 1`键。要试用此脚本，请继续下列操作：
 
 > 1. 保存并关闭此文件。
@@ -24,6 +28,54 @@
 - 要让您的脚本在启动计算机时自动运行，[请在开始菜单的启动文件夹中给您的脚本创建快捷方式](http://ahkcn.sourceforge.net/docs/FAQ.htm#Startup)。
 - 要想暂时让您的脚本失效，则右击任务栏 “H” 图标，选择 Suspend Hotkeys。
 
-![](/static/images/trick/keyboard.svg)
+## 改键样例
 
-http://www.keyboard-layout-editor.com/#/
+本样例脚本效果如下图：
+
+![](/static/images/trick/keyboard-layout.png)
+
+如果想要实现上述效果，你需要将下面的脚本复制并完全覆盖到你的 .ahk 文件中。
+
+```
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
++!d::Suspend ; Suspend script with Ctrl+Alt+d
+; Fn skills
+a::F1
+s::F2
+d::F3
+f::F4
+g::F5
+z::F6
+x::F7
+c::F8
+v::F9
+b::F10
+; Alt+n skills
+q::!1
+w::!2
+e::!3
+r::!4
+t::!5
+y::!6
+u::!7
+i::!8
+o::!9
+p::!0
+Space::!r
+j::!w
+Tab::!x
+; Alt+Fn skills
+1::!F1
+2::!F2
+3::!F3
+4::!F4
+5::!F5
+6::!F6
+```
+
+## 参考资料
+
+[键盘图编辑器](http://www.keyboard-layout-editor.com/#/)
