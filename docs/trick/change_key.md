@@ -10,10 +10,6 @@
 > 4. 右键点击此文件并选择 Edit Script。
 > 5. 在新的空行中，输入下列内容：`q::!1`。
 
-$$
-q::!1
-$$
-
 在上面的语句行中，`!`键表示`Alt`键，双冒号`::`表示每次按下此热键时会执行其后续命令，所以这句语句表示按下`q`键来激活`Alt + 1`键。要试用此脚本，请继续下列操作：
 
 > 1. 保存并关闭此文件。
@@ -34,6 +30,8 @@ $$
 
 ![](/static/images/trick/keyboard-layout.png)
 
+并且，你可以用快捷键`Shift + Alt + D`来使脚本生效和失效（运行和挂起）。
+
 如果想要实现上述效果，你需要将下面的脚本复制并完全覆盖到你的 .ahk 文件中。
 
 ```
@@ -41,7 +39,10 @@ $$
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-+!d::Suspend ; Suspend script with Ctrl+Alt+d
+
+; Suspend script with Shift+Alt+d
++!d::Suspend 
+
 ; Fn skills
 a::F1
 s::F2
@@ -53,6 +54,7 @@ x::F7
 c::F8
 v::F9
 b::F10
+
 ; Alt+n skills
 q::!1
 w::!2
@@ -67,6 +69,7 @@ p::!0
 Space::!r
 j::!w
 Tab::!x
+
 ; Alt+Fn skills
 1::!F1
 2::!F2
