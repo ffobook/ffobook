@@ -71,4 +71,5 @@
         - 消耗品
     - 数据表
         - [金币携带上限表](/extra/data/gold_limit)
+        - [修真所需消耗表](/extra/data/be_god_cost)
 
