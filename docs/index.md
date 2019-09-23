@@ -35,8 +35,6 @@
 
 ## 贡献者 ✨
 
-[![All Contributors](F:\Codes\Nodejs\190806_ffobook\docs\index.assets\all_contributors-2-orange.svg)](#contributors)
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
