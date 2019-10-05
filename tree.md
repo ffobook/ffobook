@@ -20,6 +20,7 @@
             - [系统类宠物](/game/chongwu/list/v1)
             - [活动类宠物](/game/chongwu/list/v2)
             - [充值类宠物](/game/chongwu/list/v3)
+            - [不明类宠物](/game/chongwu/list/v4)
         - [宠物技能](/game/chongwu/skill)
         - [宠物装备](/game/chongwu/equip)
         - [宠物道具](/game/chongwu/prop)
