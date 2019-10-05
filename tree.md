@@ -62,6 +62,7 @@
 - 4 PVP系统
 - 5 技巧篇
     - [技能改键](/trick/change_key)
+    - [提取与分离规则](/trick/separate)
     - [更便宜的仓库](/trick/cheap_storage)
 - [6 防骗手册✨](/antifraud/index)
     - [漫画1：账号密码发来](/antifraud/1)
