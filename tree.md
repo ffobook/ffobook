@@ -37,15 +37,20 @@
         - [龙翼法宝](/game/fabao/longyi)
     - [🃏 典籍系统](/game/dianji/index)
     - [👗 变装系统](/game/suit/index)
-        - [2015](/game/suit/2015/suit)
-        - [2016-2017](/game/suit/2016-2017/suit)
         - 衣服
+            - [1类](/game/suit/clothes/1)
         - 帽子
+            - [1类](/game/suit/cap/1)
         - 背包
+            - [1类](/game/suit/bag/1)
         - 面具
+            - [1类](/game/suit/face/1)
         - 武器
             - [0类](/game/suit/weapon/0)
             - [1类](/game/suit/weapon/1)
+        - 备份
+            - [2015](/game/suit/2015/suit)
+            - [2016-2017](/game/suit/2016-2017/suit)
 - 2 日常任务
     - [天魔劫](/daily/tmj)
     - [怪物猎杀令](/daily/gwlsl)
