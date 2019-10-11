@@ -39,8 +39,15 @@
     - [👗 变装系统](/game/suit/index)
         - 衣服
             - [1类](/game/suit/clothes/1)
+            - [2类](/game/suit/clothes/2)
+            - [3类](/game/suit/clothes/3)
+            - [4类](/game/suit/clothes/4)
+            - [5类](/game/suit/clothes/5)
         - 帽子
-            - [1类](/game/suit/cap/1)
+            - [a-g](/game/suit/cap/1)
+            - [h-n](/game/suit/cap/2)
+            - [o-t](/game/suit/cap/3)
+            - [u-z](/game/suit/cap/4)
         - 背包
             - [1类](/game/suit/bag/1)
         - 面具
