@@ -81,6 +81,7 @@
     - 🐶 犬隐寺
 - 4 PVP系统
 - 5 技巧篇
+    - [FFO魔手](/trick/moshou)
     - [技能改键](/trick/change_key)
     - [提取与分离规则](/trick/separate)
     - [更便宜的仓库](/trick/cheap_storage)

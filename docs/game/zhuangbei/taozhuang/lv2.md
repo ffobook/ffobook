@@ -100,6 +100,271 @@
 | ![img](http://fo.qq.com/web200604/information/item/DT2527.gif) | 药师     | 信仰之心 (项链)   | 36       | 魔法防御:12<br/>精神:10<br/>最大生命:30<br/>最大法力:30<br/>重量:4 |
 | ![img](http://fo.qq.com/web200604/information/item/DT2577.gif) | 药师     | 信仰之魂 (戒指)   | 31       | 防御:9<br/>魔法攻击:9<br/>智慧:3<br/>精神:3<br/>体质:3<br/>重量:4 |
 
+## 秋之真装
+<div id="content_bak">
+<div class="c_right">
+		<p><span class="color_ff4">秋之乐章*真、秋之枫华*真、秋之苍痕*真、秋之霜月*真、秋之夕颜*真</span></p>
+		<p><span class="color_ff4">获得途径：</span>可以用普通秋装在四季仙子处兑换。</p>
+		<div class="title"></div>
+	    <table border="0" cellspacing="0" cellpadding="0" class="table_css">
+          <tr>
+            <td width="87" rowspan="13" class="td_t"><strong>秋之乐章*真<br />
+            （战士）</strong></td>
+            <td width="60" align="center" class="td_c_1"><img  onmouseover="createIframe('wp20360','http://ffo.qq.com/time/ffoWareDisplay/wp20360.htm')" onmouseout="delIframe('wp20360')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24287.JPG" /> </td>
+            <td width="94" align="center" class="td_c">秋之乐章*真*悦（男） </td>
+            <td width="55" align="center" class="td_c">30</td>
+            <td width="119" rowspan="10" align="center" class="td_c_1">最大攻击+60\最大生命+240\爆击率+5% </td>
+            <td width="88" rowspan="10" align="center" class="td_c_1">无 </td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20363','http://ffo.qq.com/time/ffoWareDisplay/wp20363.htm')" onmouseout="delIframe('wp20363')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24286.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*悦（女）</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20872','http://ffo.qq.com/time/ffoWareDisplay/wp20872.htm')" onmouseout="delIframe('wp20872')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22457.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*奔</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21172','http://ffo.qq.com/time/ffoWareDisplay/wp21172.htm')" onmouseout="delIframe('wp21172')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23059.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*叮</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20947','http://ffo.qq.com/time/ffoWareDisplay/wp20947.htm')" onmouseout="delIframe('wp20947')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22488.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*瞬</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20710','http://ffo.qq.com/time/ffoWareDisplay/wp20710.htm')" onmouseout="delIframe('wp20710')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22875.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*慑</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20493','http://ffo.qq.com/time/ffoWareDisplay/wp20493.htm')" onmouseout="delIframe('wp20493')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23785.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*闪</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21040','http://ffo.qq.com/time/ffoWareDisplay/wp21040.htm')" onmouseout="delIframe('wp21040')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23265.JPG" /> </td>
+            <td align="center" class="td_c">秋之乐章*真*咚</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_bot_c_1"><img src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22690.JPG" /> </td>
+            <td align="center" class="td_bot_c">秋之乐章*真*鸣</td>
+            <td align="center" class="td_bot_c">30</td>
+          </tr>
+        </table>
+	    <table border="0" cellspacing="0" cellpadding="0" class="table_css">
+          <tr>
+            <td width="87" rowspan="13" class="td_t"><strong>秋之枫华*真<br />
+            （剑客）</strong></td>
+            <td width="60" align="center" class="td_c_1"><img  onmouseover="createIframe('wp20337','http://ffo.qq.com/time/ffoWareDisplay/wp20337.htm')" onmouseout="delIframe('wp20337')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24286.JPG" /> </td>
+            <td width="94" align="center" class="td_c">秋之枫华*真*红（女） </td>
+            <td width="55" align="center" class="td_c">30</td>
+            <td width="119" rowspan="10" align="center" class="td_c_1">最大生命+150\命中+30\最小攻击+40\ </td>
+            <td width="88" rowspan="10" align="center" class="td_c_1">无 </td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20338','http://ffo.qq.com/time/ffoWareDisplay/wp20338.htm')" onmouseout="delIframe('wp20338')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24287.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*红（男）</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20863','http://ffo.qq.com/time/ffoWareDisplay/wp20863.htm')" onmouseout="delIframe('wp20863')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22457.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*秋</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21160','http://ffo.qq.com/time/ffoWareDisplay/wp21160.htm')" onmouseout="delIframe('wp21160')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23059.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*枫</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20929','http://ffo.qq.com/time/ffoWareDisplay/wp20929.htm')" onmouseout="delIframe('wp20929')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22488.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*英</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20701','http://ffo.qq.com/time/ffoWareDisplay/wp20701.htm')" onmouseout="delIframe('wp20701')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22875.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*华</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20481','http://ffo.qq.com/time/ffoWareDisplay/wp20481.htm')" onmouseout="delIframe('wp20481')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23785.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*月</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21025','http://ffo.qq.com/time/ffoWareDisplay/wp21025.htm')" onmouseout="delIframe('wp21025')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23265.JPG" /> </td>
+            <td align="center" class="td_c">秋之枫华*真*霜</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_bot_c_1"><img src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22690.JPG" /> </td>
+            <td align="center" class="td_bot_c">秋之枫华*真*韶</td>
+            <td align="center" class="td_bot_c">30</td>
+          </tr>
+        </table>
+	    <table border="0" cellspacing="0" cellpadding="0" class="table_css">
+          <tr>
+            <td width="87" rowspan="13" class="td_t"><strong>秋之苍痕*真<br />
+            （刺客）</strong></td>
+            <td width="60" align="center" class="td_c_1"><img  onmouseover="createIframe('wp20354','http://ffo.qq.com/time/ffoWareDisplay/wp20354.htm')" onmouseout="delIframe('wp20354')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24287.JPG" /> </td>
+            <td width="94" align="center" class="td_c">秋之苍痕*真*翱（男） </td>
+            <td width="55" align="center" class="td_c">30</td>
+            <td width="119" rowspan="10" align="center" class="td_c_1">移动速度+13%\爆击率+4%\反射攻击伤害5% </td>
+            <td width="88" rowspan="10" align="center" class="td_c_1">无 </td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20357','http://ffo.qq.com/time/ffoWareDisplay/wp20357.htm')" onmouseout="delIframe('wp20357')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24286.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*翱（女）</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20879','http://ffo.qq.com/time/ffoWareDisplay/wp20879.htm')" onmouseout="delIframe('wp20879')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22457.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*疾</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21169','http://ffo.qq.com/time/ffoWareDisplay/wp21169.htm')" onmouseout="delIframe('wp21169')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23059.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*潇</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20944','http://ffo.qq.com/time/ffoWareDisplay/wp20944.htm')" onmouseout="delIframe('wp20944')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22488.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*翼</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20707','http://ffo.qq.com/time/ffoWareDisplay/wp20707.htm')" onmouseout="delIframe('wp20707')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22875.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*诺</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20490','http://ffo.qq.com/time/ffoWareDisplay/wp20490.htm')" onmouseout="delIframe('wp20490')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23785.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*翔</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21037','http://ffo.qq.com/time/ffoWareDisplay/wp21037.htm')" onmouseout="delIframe('wp21037')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23265.JPG" /> </td>
+            <td align="center" class="td_c">秋之苍痕*真*深</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_bot_c_1"><img src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22690.JPG" /> </td>
+            <td align="center" class="td_bot_c">秋之苍痕*真*遐</td>
+            <td align="center" class="td_bot_c">30</td>
+          </tr>
+        </table>
+	    <table border="0" cellspacing="0" cellpadding="0" class="table_css">
+          <tr>
+            <td width="87" rowspan="13" class="td_t"><strong>秋之霜月*真<br />
+            （术士）</strong></td>
+            <td width="60" align="center" class="td_c_1"><img  onmouseover="createIframe('wp20343','http://ffo.qq.com/time/ffoWareDisplay/wp20343.htm')" onmouseout="delIframe('wp20343')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24286.JPG" /> </td>
+            <td width="94" align="center" class="td_c">秋之霜月*真*岚（女） </td>
+            <td width="55" align="center" class="td_c">30</td>
+            <td width="119" rowspan="10" align="center" class="td_c_1">魔法攻击+13%\最大负重+350\移动速度+15% </td>
+            <td width="88" rowspan="10" align="center" class="td_c_1">无 </td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20344','http://ffo.qq.com/time/ffoWareDisplay/wp20344.htm')" onmouseout="delIframe('wp20344')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24287.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*岚（男）</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20932','http://ffo.qq.com/time/ffoWareDisplay/wp20932.htm')" onmouseout="delIframe('wp20932')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22457.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*麦</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20866','http://ffo.qq.com/time/ffoWareDisplay/wp20866.htm')" onmouseout="delIframe('wp20866')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23059.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*穗</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20554','http://ffo.qq.com/time/ffoWareDisplay/wp20554.htm')" onmouseout="delIframe('wp20554')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22488.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*香</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21031','http://ffo.qq.com/time/ffoWareDisplay/wp21031.htm')" onmouseout="delIframe('wp21031')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22875.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*扬</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20484','http://ffo.qq.com/time/ffoWareDisplay/wp20484.htm')" onmouseout="delIframe('wp20484')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23785.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*飘</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21163','http://ffo.qq.com/time/ffoWareDisplay/wp21163.htm')" onmouseout="delIframe('wp21163')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23265.JPG" /> </td>
+            <td align="center" class="td_c">秋之霜月*真*飞</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_bot_c_1"><img src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22690.JPG" /> </td>
+            <td align="center" class="td_bot_c">秋之霜月*真*金</td>
+            <td align="center" class="td_bot_c">30</td>
+          </tr>
+        </table>
+	    <table border="0" cellspacing="0" cellpadding="0" class="table_css">
+          <tr>
+            <td width="87" rowspan="13" class="td_t"><strong>秋之夕颜*真<br />
+            （药师）</strong></td>
+            <td width="60" align="center" class="td_c_1"><img  onmouseover="createIframe('wp20348','http://ffo.qq.com/time/ffoWareDisplay/wp20348.htm')" onmouseout="delIframe('wp20348')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24287.JPG" /> </td>
+            <td width="94" align="center" class="td_c">秋之夕颜*真*寂（男） </td>
+            <td width="55" align="center" class="td_c">30</td>
+            <td width="119" rowspan="10" align="center" class="td_c_1">最大生命+110\最大负重+450\魔法攻击+15% </td>
+            <td width="88" rowspan="10" align="center" class="td_c_1">无 </td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20351','http://ffo.qq.com/time/ffoWareDisplay/wp20351.htm')" onmouseout="delIframe('wp20351')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/24286.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*寂（女）</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20869','http://ffo.qq.com/time/ffoWareDisplay/wp20869.htm')" onmouseout="delIframe('wp20869')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22457.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*梧</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21166','http://ffo.qq.com/time/ffoWareDisplay/wp21166.htm')" onmouseout="delIframe('wp21166')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23059.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*桐</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20941','http://ffo.qq.com/time/ffoWareDisplay/wp20941.htm')" onmouseout="delIframe('wp20941')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22488.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*岩</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20695','http://ffo.qq.com/time/ffoWareDisplay/wp20695.htm')" onmouseout="delIframe('wp20695')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22875.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*凉</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp20487','http://ffo.qq.com/time/ffoWareDisplay/wp20487.htm')" onmouseout="delIframe('wp20487')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23785.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*清</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_c_1"><img  onmouseover="createIframe('wp21034','http://ffo.qq.com/time/ffoWareDisplay/wp21034.htm')" onmouseout="delIframe('wp21034')" src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/23265.JPG" /> </td>
+            <td align="center" class="td_c">秋之夕颜*真*深</td>
+            <td align="center" class="td_c">30</td>
+          </tr>
+          <tr>
+            <td align="center" class="td_bot_c_1"><img src="http://ossweb-img.qq.com/upload/ffo/a20080725shelf/22690.JPG" /> </td>
+            <td align="center" class="td_bot_c">秋之夕颜*真*松</td>
+            <td align="center" class="td_bot_c">30</td>
+          </tr>
+        </table>
+    </div>
+</div>
+
+
 ## 参考资料
 
 [QQ自由幻想 资料专区](http://ffo.qq.com/web200708/information/2_1_2.htm)
