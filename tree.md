@@ -58,6 +58,7 @@
         - 备份
             - [2015](/game/suit/2015/suit)
             - [2016-2017](/game/suit/2016-2017/suit)
+            - [2020](/game/suit/2020/suit)
 - 2 日常任务
     - [天魔劫](/daily/tmj)
         - [极限天魔劫](/daily/jxtmj)
