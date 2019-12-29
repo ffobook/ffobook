@@ -4,4 +4,5 @@
 
 ## 下载地址
 
-[FFO魔手 v2.02](/static/files/trick/FFO魔手_v2.02.exe)
+[FFO魔手 v2.02](https://github.com/ffobook/ffobook/releases/download/moshou/ffo.2.02.exe)
+

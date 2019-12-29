@@ -37,25 +37,26 @@
         - [龙翼秘宝](/game/fabao/longyi)
     - [🃏 典籍系统](/game/dianji/index)
     - [👗 变装系统](/game/suit/index)
-        - 衣服
-            - [1类](/game/suit/clothes/1)
-            - [2类](/game/suit/clothes/2)
-            - [3类](/game/suit/clothes/3)
-            - [4类](/game/suit/clothes/4)
-            - [5类](/game/suit/clothes/5)
-        - 帽子
-            - [a-g](/game/suit/cap/1)
-            - [h-n](/game/suit/cap/2)
-            - [o-t](/game/suit/cap/3)
-            - [u-z](/game/suit/cap/4)
-        - 背包
-            - [1类](/game/suit/bag/1)
-        - 面具
-            - [1类](/game/suit/face/1)
-        - 武器
-            - [0类](/game/suit/weapon/0)
-            - [1类](/game/suit/weapon/1)
-        - 备份
+        - 按类别
+            - 衣服
+                - [1类](/game/suit/clothes/1)
+                - [2类](/game/suit/clothes/2)
+                - [3类](/game/suit/clothes/3)
+                - [4类](/game/suit/clothes/4)
+                - [5类](/game/suit/clothes/5)
+            - 帽子
+                - [a-g](/game/suit/cap/1)
+                - [h-n](/game/suit/cap/2)
+                - [o-t](/game/suit/cap/3)
+                - [u-z](/game/suit/cap/4)
+            - 背包
+                - [1类](/game/suit/bag/1)
+            - 面具
+                - [1类](/game/suit/face/1)
+            - 武器
+                - [0类](/game/suit/weapon/0)
+                - [1类](/game/suit/weapon/1)
+        - 按年份
             - [2015](/game/suit/2015/suit)
             - [2016-2017](/game/suit/2016-2017/suit)
             - [2020](/game/suit/2020/suit)
