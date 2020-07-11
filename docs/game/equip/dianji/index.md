@@ -22,9 +22,9 @@
 | ♠A 魔法攻击 33                                     | ♦A 攻击 24.75                                  | <span style="color:blue">♥A 韧性等级 13.75</span> | <span style="color:blue">♣A 坚定等级 13.75</span> |
 | ♠2 攻击反射效果 0.69                               | <span style="color:red">♦2 移动速度 0.5</span> | <span style="color:red">♥2 物理透击 0.41</span>   | <span style="color:red">♣2 魔法透击 0.41</span>   |
 
-| 小JOKER                                  | 大JOKER                                      |
+| 小JOKER（橙）                                  | 大JOKER（橙）                                      |
 | ---------------------------------------- | -------------------------------------------- |
-| <span style="color:red">攻击 0.41</span> | <span style="color:red">最大生命 0.41</span> |
+| <span style="color:red">攻击/魔法攻击 5%</span> | <span style="color:red">最大生命 6%</span> |
 
 ## 卡牌升阶
 
