@@ -1,30 +1,48 @@
 - [首页](/index)
-- 1 游戏系统
-    - [🏃‍ 职业系统](/game/zhiye/index)
+- 1 新手入门
+	- [下载游戏](/start/game_download)
+	- [服务器选择](/start/server_choose)
+	- [氪金指南](/start/krypton_guide)
+	- 技巧篇
+		- [FFO魔手](/start/trick/moshou)
+		- [技能改键](/start/trick/change_key)
+		- [提取与分离规则](/start/trick/separate)
+		- [更便宜的仓库](/start/trick/cheap_storage)
+- 2 🎮 游戏系统
+    - [🏃‍ 职业](/game/zhiye/index)
         - [战士](/game/zhiye/zs)
         - [剑客](/game/zhiye/jk)
         - [刺客](/game/zhiye/ck)
         - [术士](/game/zhiye/ss)
         - [药师](/game/zhiye/ys)
-    - [🔪 装备系统](/game/zhuangbei/index)
-        - 套装
-            - [一阶套装](/game/zhuangbei/taozhuang/lv1)
-            - [二阶套装](/game/zhuangbei/taozhuang/lv2)
-            - [三阶套装](/game/zhuangbei/taozhuang/lv3)
-            - [四阶套装](/game/zhuangbei/taozhuang/lv4)
-            - [五阶套装](/game/zhuangbei/taozhuang/lv5)
-            - [六阶套装](/game/zhuangbei/taozhuang/lv6)
-            - [七阶套装](/game/zhuangbei/taozhuang/lv7)
-    - 🐱 宠物系统
+	- [🔪 装备](/game/equip/index)
+		- 基础装备
+			- 套装
+				- [一阶套装](/game/equip/basic/taozhuang/lv1)
+				- [二阶套装](/game/equip/basic/taozhuang/lv2)
+				- [三阶套装](/game/equip/basic/taozhuang/lv3)
+				- [四阶套装](/game/equip/basic/taozhuang/lv4)
+				- [五阶套装](/game/equip/basic/taozhuang/lv5)
+				- [六阶套装](/game/equip/basic/taozhuang/lv6)
+				- [七阶套装](/game/equip/basic/taozhuang/lv7)
+		- [🔖 法宝](/game/equip/fabao/index)
+			- [五行法宝](/game/equip/fabao/wuxing)
+			- [龙翼秘宝](/game/equip/fabao/longyi)
+		- 灵
+		- 战魂
+		- 轮回装备
+		- [🃏 典籍](/game/equip/dianji/index)
+		- 装备觉醒
+    - 🐱 宠物
         - 宠物图鉴
-            - [系统类宠物](/game/chongwu/list/v1)
-            - [活动类宠物](/game/chongwu/list/v2)
-            - [充值类宠物](/game/chongwu/list/v3)
-            - [不明类宠物](/game/chongwu/list/v4)
-        - [宠物技能](/game/chongwu/skill)
-        - [宠物装备](/game/chongwu/equip)
-        - [宠物道具](/game/chongwu/prop)
-    - [👰 幻神系统](/game/huanshen/index)
+            - [系统类宠物](/game/pet/list/v1)
+            - [活动类宠物](/game/pet/list/v2)
+            - [充值类宠物](/game/pet/list/v3)
+            - [不明类宠物](/game/pet/list/v4)
+        - [宠物技能](/game/pet/skill)
+        - [宠物装备](/game/pet/equip)
+        - [宠物道具](/game/pet/prop)
+    - [👰 幻神](/game/huanshen/index)
         - [幻神获得](/game/huanshen/howToGet)
         - [幻神成长](/game/huanshen/growth)
         - [幻神任务](/game/huanshen/task)
@@ -32,11 +50,7 @@
         - 幻神技能
             - [武圣技能](/game/huanshen/skill_wusheng)
             - [法仙技能](/game/huanshen/skill_faxian)
-    - [🔖 法宝系统](/game/fabao/index)
-        - [五行法宝](/game/fabao/wuxing)
-        - [龙翼秘宝](/game/fabao/longyi)
-    - [🃏 典籍系统](/game/dianji/index)
-    - [👗 变装系统](/game/suit/index)
+    - [👗 变装](/game/suit/index)
         - 按类别
             - 衣服
                 - [1类](/game/suit/clothes/1)
@@ -60,34 +74,67 @@
             - [2015](/game/suit/2015/suit)
             - [2016-2017](/game/suit/2016-2017/suit)
             - [2020](/game/suit/2020/suit)
-- 2 日常任务
-    - [天魔劫](/daily/tmj)
-        - [极限天魔劫](/daily/jxtmj)
-    - [怪物猎杀令](/daily/gwlsl)
-    - [五行法阵](/daily/wxfz)
 - [3 副本系统](/fuben/index)
-    - 60级以下的副本
+	- 日常玩法
+		- [怪物猎杀令](/fuben/daily/gwlsl)
+		- 试炼
+		- 珍珠海域
+		- 蟠桃盛会
+		- [五行法阵](/fuben/daily/wxfz)
+		- 保卫战
+		- 六道轮回副本
+		- 虹霓副本
+	    - [天魔劫](/fuben/daily/tmj)
+			- [极限天魔劫](/fuben/daily/jxtmj)
+		- 古阵
+	- 休闲玩法
+		- 月光岛
+		- 环城赛跑
+		- 颠倒魔塔
+		- 家族玩法
+			- 抓小偷
+			- 酒会
+			- 钓鱼
+    - 60级以下副本
         - 赤枭的巢穴
-        - [八仙的结界](/fuben/bxdjj)
+        - [八仙的结界](/fuben/60_under/bxdjj)
         - 纯阳宝塔
         - 塔狱
-        - [天空之泉](/fuben/tkzq)
+        - [天空之泉](/fuben/60_under/tkzq)
         - 天之眼
         - 失落的神殿
-    - [🌼 花妖巢穴](/fuben/hycx)
-    - 🌙 夜影村
-    - 🐸 迷雾沼泽
-    - 🐚 冰火双螺
-    - [🕍 灵泽殿](/fuben/lzd)
-    - 🗻 先祖山
-    - 🐶 犬隐寺
+	- 60级以上副本
+		- [🌼 花妖巢穴](/fuben/60_above/hycx)
+		- 🌙 夜影村
+		- 🐸 迷雾沼泽
+		- 🐚 冰火双螺
+		- [🕍 灵泽殿](/fuben/60_above/lzd)
+		- 🗻 先祖山
+		- 🐶 犬隐寺
+	- 高级副本
+		- [妖皇府](/fuben/pro/yaohuangfu)
+		- 百晓生
+		- 昆仑雪
+		- 须弥大漠
+		- 新·百里杜鹃
+		- 四色山庄
 - 4 PVP系统
-- 5 技巧篇
-    - [FFO魔手](/trick/moshou)
-    - [技能改键](/trick/change_key)
-    - [提取与分离规则](/trick/separate)
-    - [更便宜的仓库](/trick/cheap_storage)
-- [6 防骗手册✨](/antifraud/index)
+	- [PVP属性](/pvp/pvp_attr)
+		- [PVP培养](/pvp/pvp_train)
+		- [家族属性修炼](/pvp/family_attr_train)
+		- 手套变装
+		- [天地武器](/pvp/tiandi_weapon)
+		- [虎符及龙翼法宝](/pvp/hufu_longyi)
+		- [其他来源](/pvp/other)
+	- PVP活动
+		- 决斗场
+		- 修罗场
+		- 冲锋战场
+		- 山河战场（激战版）
+		- 城邦争夺战
+		- 领地争夺战
+		- 无双争霸战
+- [5 防骗手册✨](/antifraud/index)
     - [漫画1：加你6张疾速+1](/antifraud/1)
     - [漫画2：四种搭讪方式](/antifraud/2)
 - 附录
