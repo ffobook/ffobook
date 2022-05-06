@@ -24,11 +24,12 @@ module.exports = {
 				var _hmt = _hmt || [];
 				(function() {
 				  var hm = document.createElement("script");
-				  hm.src = "https://hm.baidu.com/hm.js?c397b3c9771ef07cfe2cd5f44be3e552";
+				  hm.src = "https://hm.baidu.com/hm.js?fb4ace1d7c8fd9f348f5b33f3a97385d";
 				  var s = document.getElementsByTagName("script")[0]; 
 				  s.parentNode.insertBefore(hm, s);
 				})();
 			</script>
+
 			<script>
 				(function(){
 					var bp = document.createElement('script');
